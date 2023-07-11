@@ -5,7 +5,7 @@ import java.util.*;
 //AHMET ÇAĞRI HODOĞLUGİL 
 
 
-//AT LINE 36 FILE PATH SHOULD BE GIVEN.
+//AT LINE 35 FILE PATH SHOULD BE GIVEN.
 
 public class LexicalAnalyzer {
     public static final char EOF = '\0';
