@@ -1,9 +1,8 @@
 import java.util.Locale;
 
 
-//YİĞİT GÖKSEL 150119053
-//AHMET ÇAĞRI HODOĞLUGİL 150118508
-//MUHAMMED ZAHİD MANSIZ 150119754
+//YİĞİT GÖKSEL
+//AHMET ÇAĞRI HODOĞLUGİL
 
 
 public class Token {
